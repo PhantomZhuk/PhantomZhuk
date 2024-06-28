@@ -1,6 +1,5 @@
 <div align="center">
-
-![](https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif)
+  
 # Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">I'm Maksym 
 ### A passionate frontend developer from Ukrain <img src="https://user-images.githubusercontent.com/84918090/201474845-932ac61c-7ed3-46f3-a552-7cabddb56eee.png">
 📫 How to reach me bitmaksum550@gmail.com
