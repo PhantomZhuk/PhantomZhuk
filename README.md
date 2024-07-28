@@ -15,7 +15,7 @@ ___
 
 ### <b>My GitHub Stats</b>
 
-<a href="https://github.com/PhantomZhuk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhantomZhuk&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=171717&
+<a href="https://github.com/PhantomZhuk"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhantomZhuk&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=171717&
 hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <a href="http://www.github.com/PhantomZhuk"><img src="https://github-readme-stats.vercel.app/api?username=PhantomZhuk&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=171717&hide_border=true&show_icons=true" alt="PhantomZhuk's GitHub stats" /></a>
