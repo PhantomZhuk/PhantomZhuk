@@ -36,6 +36,8 @@ ___
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 &nbsp; &nbsp; 
 <a href="https://zustand-demo.pmnd.rs/"> <img alt="React Zustand" src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" height="40" /></a>
+&nbsp; &nbsp; 
+<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /></a>
 </p>
 
 ___
