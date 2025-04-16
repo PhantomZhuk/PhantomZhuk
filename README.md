@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">I'm Maksym 
-### A passionate frontend developer from Ukrain <img src="https://user-images.githubusercontent.com/84918090/201474845-932ac61c-7ed3-46f3-a552-7cabddb56eee.png">
+### A passionate frontend developer from Ukraine <img src="https://user-images.githubusercontent.com/84918090/201474845-932ac61c-7ed3-46f3-a552-7cabddb56eee.png">
 📫 How to reach me bitmaksum550@gmail.com
 
 ___
