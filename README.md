@@ -44,6 +44,12 @@ ___
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
 &nbsp; &nbsp; 
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
+&nbsp; &nbsp; 
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+&nbsp; &nbsp; 
+<a href="https://orm.drizzle.team/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/05aed0ca-8d50-482c-8328-82f796483a36" width="36" height="36" alt="Drizzle-ORM" /></a>
+&nbsp; &nbsp; 
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 </p>
 
 ___
