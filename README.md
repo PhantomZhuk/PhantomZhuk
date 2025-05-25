@@ -50,6 +50,8 @@ ___
 <a href="https://orm.drizzle.team/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/05aed0ca-8d50-482c-8328-82f796483a36" width="36" height="36" alt="Drizzle-ORM" /></a>
 &nbsp; &nbsp; 
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+&nbsp; &nbsp; 
+<a alt="Nx logo" href="https://nx.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="45"></a>
 </p>
 
 ___
