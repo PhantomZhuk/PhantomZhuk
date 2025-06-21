@@ -52,8 +52,11 @@ ___
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 &nbsp; &nbsp; 
 <a alt="Nx logo" href="https://nx.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="45"></a>
+  &nbsp; &nbsp; 
+<a href="https://fastify.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Fastify.png" height="40" /></a>
 </p>
 
+  
 ___
 
 ### <b>My GitHub Stats</b>
