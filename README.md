@@ -56,6 +56,11 @@ ___
 <a href="https://fastify.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Fastify.png" height="40" /></a>
 </p>
 
+---
+
+### <b>What I am studying now</b>👇🏻
+
+<p></p>
   
 ___
 
