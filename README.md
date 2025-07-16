@@ -60,7 +60,9 @@ ___
 
 ### <b>What I am studying now</b>👇🏻
 
-<p></p>
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=rust&theme=dark&perline=25" alt="My Skills" /></a>
+</p>
   
 ___
 
