@@ -67,9 +67,10 @@ ___
 ___
 
 ### <b>My GitHub Stats</b>
-<a href="https://github.com/PhantomZhuk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhantomZhuk&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="http://www.github.com/PhantomZhuk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PhantomZhuk&stroke=ffffff&background=171717&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Maksym-Zhuk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Maksym-Zhuk&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/Maksym-Zhuk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maksym-Zhuk&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 ___
 
 ### You can find me there 👇🏻
